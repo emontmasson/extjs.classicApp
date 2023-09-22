@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\view",
+    "\\app\\view\\examples",
+    "\\app\\view\\examples\\chart",
+    "\\app\\view\\examples\\chart\\pie",
+    "\\app\\view\\examples\\chart\\scatter",
+    "\\ext\\packages\\font-awesome",
+    "\\ext\\packages\\font-awesome\\sass",
+    "\\ext\\packages\\font-awesome\\sass\\example"
+  ],
+  "SelectedNode": "\\app\\view\\examples\\chart\\scatter\\Scatter.js",
+  "PreviewInSolutionExplorer": false
+}
